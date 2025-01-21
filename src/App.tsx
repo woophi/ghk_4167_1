@@ -16,7 +16,7 @@ export const App = () => {
         </Typography.TitleResponsive>
 
         <Typography.Text className={appSt.subtitle} view="component" color="secondary">
-          Взрастите ваше доходное дерево
+          Взрастите ваше денежное дерево
         </Typography.Text>
 
         <div className={appSt.dotContainer}>
